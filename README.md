@@ -15,7 +15,7 @@ A modern, responsive coffee shop website built with Next.js, showcasing premium 
 
 ## Documentation
 
-- Confluence: [https://nusu97.atlassian.net/wiki/spaces/~71202024adedf74f4d48b6bb3ef03154dffd28/pages/196830/Documentation+for+ethiocoffee.et](https://nusu97.atlassian.net/wiki/x/3gAD)
+- Confluence: https://nusu97.atlassian.net/wiki/x/3gAD
 
 ## 🚀 Tech Stack
 

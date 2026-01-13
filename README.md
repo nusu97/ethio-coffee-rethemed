@@ -15,7 +15,7 @@ A modern, responsive coffee shop website built with Next.js, showcasing premium 
 
 ## Documentation
 
-- Confluence: https://nusu97.atlassian.net/wiki/x/3gAD
+- Confluence: [https://nusu97.atlassian.net/wiki/x/3gAD](https://nusu97.atlassian.net/wiki/x/3gAD)
 
 ## 🚀 Tech Stack
 

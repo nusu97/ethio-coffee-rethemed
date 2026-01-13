@@ -13,6 +13,10 @@ A modern, responsive coffee shop website built with Next.js, showcasing premium 
 - **Image Optimization**: Next.js optimized images for fast loading
 - **SEO Optimized**: Built-in SEO features with Next.js
 
+## Documentation
+
+- Confluence: https://nusu97.atlassian.net/wiki/spaces/~71202024adedf74f4d48b6bb3ef03154dffd28/pages/196830/Documentation+for+ethiocoffee.et
+
 ## 🚀 Tech Stack
 
 - **Framework**: [Next.js 15](https://nextjs.org/) - React framework for production

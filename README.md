@@ -1,8 +1,8 @@
-# ☕ Ethio Coffee - Premium Ethiopian Coffee Experience
+# Ethio Coffee - Premium Ethiopian Coffee Experience
 
 A modern, responsive coffee shop website built with Next.js, showcasing premium Ethiopian coffee products and providing an exceptional user experience.
 
-## 🌟 Features
+## Features
 
 - **Modern Design**: Clean, responsive UI built with Tailwind CSS
 - **Product Showcase**: Beautiful product galleries with detailed descriptions
@@ -12,6 +12,9 @@ A modern, responsive coffee shop website built with Next.js, showcasing premium 
 - **Animated UI**: Smooth animations powered by Framer Motion
 - **Image Optimization**: Next.js optimized images for fast loading
 - **SEO Optimized**: Built-in SEO features with Next.js
+
+## Live Site
+[https://www.ethiocoffee.et/](https://www.ethiocoffee.et/)
 
 ## Documentation
 
@@ -47,4 +50,3 @@ caffined-vercel-app/
 └── types.d.ts            # TypeScript type definitions
 ```
 
-**Live Site**: [https://www.ethiocoffee.et/](https://www.ethiocoffee.et/)
